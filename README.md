@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @RobertoTadeuAlmeida
 - 👀 Estou interessado em aprimorar os meus conhecimentos.
-- 🌱 Atualmente estou estudando  **HTML**, **JS**, **REACT** entre outros.
-- 💞️ Tenho interesse em colaborar em projetos de desenvolvimento web é outros desafios
+- 🌱 Atualmente estou estudando  **Java**, **Kotlin**, **Flutter** entre outros.
+- 💞️ Tenho interesse em colaborar em projetos de desenvolvimento Mobile é outros desafios
 - 📫 Contate-me pelo email robertotadeudealmeida@gmail.com.
 
 <!---
