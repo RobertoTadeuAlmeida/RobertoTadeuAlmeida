@@ -85,8 +85,8 @@ Busco minha primeira oportunidade como desenvolvedor, onde eu possa:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[https://github.com/RobertoTadeuAlmeida]&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/RobertoTadeuAlmeida]&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
